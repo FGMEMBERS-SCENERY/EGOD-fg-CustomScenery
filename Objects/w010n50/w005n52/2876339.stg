@@ -1,5 +1,8 @@
 
-OBJECT_SHARED Scenery/EGOD/Models/windsock_lit.xml -4.120303 52.815766 3.3 0.00OBJECT_SHARED Scenery/EGOD/Models/windsock_lit.xml -4.128681 52.817004 3.8 0.00OBJECT_SHARED Scenery/EGOD/Models/windsock_lit.xml -4.125051 52.805122 6.9 0.00OBJECT_SHARED Scenery/EGOD/Models/beacon.xml -4.123581 52.814418 4.2 0.00
+OBJECT_SHARED Scenery/EGOD/Models/windsock_lit.xml -4.120303 52.815766 3.3 0.00
+OBJECT_SHARED Scenery/EGOD/Models/windsock_lit.xml -4.128681 52.817004 3.8 0.00
+OBJECT_SHARED Scenery/EGOD/Models/windsock_lit.xml -4.125051 52.805122 6.9 0.00
+OBJECT_SHARED Scenery/EGOD/Models/beacon.xml -4.123581 52.814418 4.2 0.00
 OBJECT_SHARED Scenery/EGOD/Models/ctype.xml -4.12598661 52.81772635 3.5838 181.9 0.0 -0.0
 OBJECT_SHARED Scenery/EGOD/Models/generic-trailer-GPU.xml -4.12565950 52.81769871 3.5633 0.0 0.0 -0.0
 OBJECT_SHARED Scenery/EGOD/Models/RAFTower.xml -4.12330431 52.80625792 5.6342 24.0 0.0 -0.0
@@ -98,3 +101,13 @@ OBJECT_SHARED Scenery/EGOD/Models/helipad-light.xml -4.12313446 52.81568422 3.59
 OBJECT_SHARED Scenery/EGOD/Models/helipad-light.xml -4.12313446 52.81568422 3.5997 315.0 0.0 -0.0
 
 OBJECT_SHARED Scenery/EGOD/Models/gate-guardian.ac -4.11837626 52.81726157 2.7066 0.0 0.0 -0.0
+
+# Custom scenery by J Maverick 16
+OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml -4.11873660 52.81888338 2.6298 336.0 0.0 -0.0
+OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml -4.11963759 52.81908977 2.7156 336.0 0.0 -0.0
+OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml -4.11997139 52.81865645 2.6807 337.0 0.0 -0.0
+OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml -4.11909480 52.81843950 2.7462 336.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ARFF-trainer.xml -4.12729663 52.81937448 2.7623 164.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/base_clape_03.xml -4.12052140 52.82091161 2.3326 96.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/communication-building1.ac -4.12087979 52.82089436 2.3478 88.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml -4.12120096 52.82088476 -10.0916 0.0 0.0 -0.0
